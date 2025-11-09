@@ -1,0 +1,2 @@
+## Maze-Solving-Using-Image-Processing ##
+This project presents an image-based maze solver implemented in MATLAB that leverages mathematical morphology to automatically trace a path from the maze’s entrance to its exit. The method is entirely image-driven and requires no prior knowledge of the maze structure, relying instead on binary image processing, region labeling, and morphological operations such as dilation, erosion, and hole-filling to identify the correct path.
